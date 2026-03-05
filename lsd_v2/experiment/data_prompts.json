@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "category": "History",
+    "topic": "Berlin Wall start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 2,
+    "category": "History",
+    "topic": "Berlin Wall end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 3,
+    "category": "History",
+    "topic": "Berlin Wall main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 4,
+    "category": "History",
+    "topic": "Berlin Wall key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 5,
+    "category": "History",
+    "topic": "French Revolution start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 6,
+    "category": "History",
+    "topic": "French Revolution end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 7,
+    "category": "History",
+    "topic": "French Revolution main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 8,
+    "category": "History",
+    "topic": "French Revolution key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 9,
+    "category": "History",
+    "topic": "Roman Empire start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 10,
+    "category": "History",
+    "topic": "Roman Empire end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 11,
+    "category": "History",
+    "topic": "Roman Empire main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 12,
+    "category": "History",
+    "topic": "Roman Empire key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 13,
+    "category": "History",
+    "topic": "World War start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 14,
+    "category": "History",
+    "topic": "World War end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 15,
+    "category": "History",
+    "topic": "World War main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 16,
+    "category": "History",
+    "topic": "World War key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 17,
+    "category": "History",
+    "topic": "Cold War start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 18,
+    "category": "History",
+    "topic": "Cold War end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 19,
+    "category": "History",
+    "topic": "Cold War main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 20,
+    "category": "History",
+    "topic": "Cold War key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 21,
+    "category": "History",
+    "topic": "Industrial Revolution start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 22,
+    "category": "History",
+    "topic": "Industrial Revolution end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 23,
+    "category": "History",
+    "topic": "Industrial Revolution main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 24,
+    "category": "History",
+    "topic": "Industrial Revolution key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 25,
+    "category": "History",
+    "topic": "American Revolution start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 26,
+    "category": "History",
+    "topic": "American Revolution end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 27,
+    "category": "History",
+    "topic": "American Revolution main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 28,
+    "category": "History",
+    "topic": "American Revolution key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 29,
+    "category": "History",
+    "topic": "Soviet Union start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 30,
+    "category": "History",
+    "topic": "Soviet Union end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 31,
+    "category": "History",
+    "topic": "Soviet Union main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 32,
+    "category": "History",
+    "topic": "Soviet Union key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 33,
+    "category": "History",
+    "topic": "Ottoman Empire start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 34,
+    "category": "History",
+    "topic": "Ottoman Empire end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 35,
+    "category": "History",
+    "topic": "Ottoman Empire main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 36,
+    "category": "History",
+    "topic": "Ottoman Empire key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 37,
+    "category": "History",
+    "topic": "Ming Dynasty start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 38,
+    "category": "History",
+    "topic": "Ming Dynasty end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 39,
+    "category": "History",
+    "topic": "Ming Dynasty main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 40,
+    "category": "History",
+    "topic": "Ming Dynasty key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 41,
+    "category": "History",
+    "topic": "Qing Dynasty start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 42,
+    "category": "History",
+    "topic": "Qing Dynasty end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 43,
+    "category": "History",
+    "topic": "Qing Dynasty main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 44,
+    "category": "History",
+    "topic": "Qing Dynasty key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 45,
+    "category": "History",
+    "topic": "Napoleon Bonaparte start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 46,
+    "category": "History",
+    "topic": "Napoleon Bonaparte end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 47,
+    "category": "History",
+    "topic": "Napoleon Bonaparte main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 48,
+    "category": "History",
+    "topic": "Napoleon Bonaparte key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 49,
+    "category": "History",
+    "topic": "Julius Caesar start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 50,
+    "category": "History",
+    "topic": "Julius Caesar end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 51,
+    "category": "History",
+    "topic": "Julius Caesar main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 52,
+    "category": "History",
+    "topic": "Julius Caesar key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 53,
+    "category": "History",
+    "topic": "Abraham Lincoln start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 54,
+    "category": "History",
+    "topic": "Abraham Lincoln end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 55,
+    "category": "History",
+    "topic": "Abraham Lincoln main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 56,
+    "category": "History",
+    "topic": "Abraham Lincoln key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 57,
+    "category": "History",
+    "topic": "George Washington start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 58,
+    "category": "History",
+    "topic": "George Washington end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 59,
+    "category": "History",
+    "topic": "George Washington main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 60,
+    "category": "History",
+    "topic": "George Washington key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 61,
+    "category": "History",
+    "topic": "Martin Luther start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 62,
+    "category": "History",
+    "topic": "Martin Luther end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 63,
+    "category": "History",
+    "topic": "Martin Luther main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 64,
+    "category": "History",
+    "topic": "Martin Luther key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 65,
+    "category": "History",
+    "topic": "Spanish Armada start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 66,
+    "category": "History",
+    "topic": "Spanish Armada end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 67,
+    "category": "History",
+    "topic": "Spanish Armada main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 68,
+    "category": "History",
+    "topic": "Spanish Armada key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 69,
+    "category": "History",
+    "topic": "Magna Carta start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 70,
+    "category": "History",
+    "topic": "Magna Carta end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 71,
+    "category": "History",
+    "topic": "Magna Carta main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 72,
+    "category": "History",
+    "topic": "Magna Carta key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 73,
+    "category": "History",
+    "topic": "Silk Road start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 74,
+    "category": "History",
+    "topic": "Silk Road end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 75,
+    "category": "History",
+    "topic": "Silk Road main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 76,
+    "category": "History",
+    "topic": "Silk Road key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 77,
+    "category": "History",
+    "topic": "Black Death start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 78,
+    "category": "History",
+    "topic": "Black Death end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 79,
+    "category": "History",
+    "topic": "Black Death main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 80,
+    "category": "History",
+    "topic": "Black Death key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 81,
+    "category": "History",
+    "topic": "Byzantine Empire start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 82,
+    "category": "History",
+    "topic": "Byzantine Empire end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 83,
+    "category": "History",
+    "topic": "Byzantine Empire main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 84,
+    "category": "History",
+    "topic": "Byzantine Empire key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 85,
+    "category": "History",
+    "topic": "Meiji Restoration start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 86,
+    "category": "History",
+    "topic": "Meiji Restoration end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 87,
+    "category": "History",
+    "topic": "Meiji Restoration main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 88,
+    "category": "History",
+    "topic": "Meiji Restoration key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 89,
+    "category": "History",
+    "topic": "Cuban Missile start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 90,
+    "category": "History",
+    "topic": "Cuban Missile end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 91,
+    "category": "History",
+    "topic": "Cuban Missile main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 92,
+    "category": "History",
+    "topic": "Cuban Missile key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 93,
+    "category": "History",
+    "topic": "Apollo Program start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 94,
+    "category": "History",
+    "topic": "Apollo Program end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 95,
+    "category": "History",
+    "topic": "Apollo Program main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 96,
+    "category": "History",
+    "topic": "Apollo Program key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 97,
+    "category": "History",
+    "topic": "Vietnam War start year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 98,
+    "category": "History",
+    "topic": "Vietnam War end year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 99,
+    "category": "History",
+    "topic": "Vietnam War main leader",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 100,
+    "category": "History",
+    "topic": "Vietnam War key location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 101,
+    "category": "Science",
+    "topic": "Water boiling basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 102,
+    "category": "Science",
+    "topic": "Water boiling core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 103,
+    "category": "Science",
+    "topic": "Water boiling standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 104,
+    "category": "Science",
+    "topic": "Water boiling common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 105,
+    "category": "Science",
+    "topic": "Gold symbol basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 106,
+    "category": "Science",
+    "topic": "Gold symbol core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 107,
+    "category": "Science",
+    "topic": "Gold symbol standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 108,
+    "category": "Science",
+    "topic": "Gold symbol common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 109,
+    "category": "Science",
+    "topic": "Carbon cycle basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 110,
+    "category": "Science",
+    "topic": "Carbon cycle core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 111,
+    "category": "Science",
+    "topic": "Carbon cycle standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 112,
+    "category": "Science",
+    "topic": "Carbon cycle common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 113,
+    "category": "Science",
+    "topic": "Photosynthesis process basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 114,
+    "category": "Science",
+    "topic": "Photosynthesis process core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 115,
+    "category": "Science",
+    "topic": "Photosynthesis process standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 116,
+    "category": "Science",
+    "topic": "Photosynthesis process common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 117,
+    "category": "Science",
+    "topic": "Solar system basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 118,
+    "category": "Science",
+    "topic": "Solar system core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 119,
+    "category": "Science",
+    "topic": "Solar system standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 120,
+    "category": "Science",
+    "topic": "Solar system common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 121,
+    "category": "Science",
+    "topic": "Human skeleton basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 122,
+    "category": "Science",
+    "topic": "Human skeleton core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 123,
+    "category": "Science",
+    "topic": "Human skeleton standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 124,
+    "category": "Science",
+    "topic": "Human skeleton common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 125,
+    "category": "Science",
+    "topic": "Nervous system basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 126,
+    "category": "Science",
+    "topic": "Nervous system core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 127,
+    "category": "Science",
+    "topic": "Nervous system standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 128,
+    "category": "Science",
+    "topic": "Nervous system common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 129,
+    "category": "Science",
+    "topic": "Blood pressure basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 130,
+    "category": "Science",
+    "topic": "Blood pressure core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 131,
+    "category": "Science",
+    "topic": "Blood pressure standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 132,
+    "category": "Science",
+    "topic": "Blood pressure common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 133,
+    "category": "Science",
+    "topic": "DNA structure basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 134,
+    "category": "Science",
+    "topic": "DNA structure core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 135,
+    "category": "Science",
+    "topic": "DNA structure standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 136,
+    "category": "Science",
+    "topic": "DNA structure common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 137,
+    "category": "Science",
+    "topic": "Cell membrane basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 138,
+    "category": "Science",
+    "topic": "Cell membrane core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 139,
+    "category": "Science",
+    "topic": "Cell membrane standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 140,
+    "category": "Science",
+    "topic": "Cell membrane common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 141,
+    "category": "Science",
+    "topic": "Quantum theory basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 142,
+    "category": "Science",
+    "topic": "Quantum theory core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 143,
+    "category": "Science",
+    "topic": "Quantum theory standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 144,
+    "category": "Science",
+    "topic": "Quantum theory common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 145,
+    "category": "Science",
+    "topic": "Plate tectonics basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 146,
+    "category": "Science",
+    "topic": "Plate tectonics core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 147,
+    "category": "Science",
+    "topic": "Plate tectonics standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 148,
+    "category": "Science",
+    "topic": "Plate tectonics common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 149,
+    "category": "Science",
+    "topic": "Electric current basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 150,
+    "category": "Science",
+    "topic": "Electric current core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 151,
+    "category": "Science",
+    "topic": "Electric current standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 152,
+    "category": "Science",
+    "topic": "Electric current common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 153,
+    "category": "Science",
+    "topic": "Magnetic field basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 154,
+    "category": "Science",
+    "topic": "Magnetic field core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 155,
+    "category": "Science",
+    "topic": "Magnetic field standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 156,
+    "category": "Science",
+    "topic": "Magnetic field common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 157,
+    "category": "Science",
+    "topic": "Sound waves basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 158,
+    "category": "Science",
+    "topic": "Sound waves core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 159,
+    "category": "Science",
+    "topic": "Sound waves standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 160,
+    "category": "Science",
+    "topic": "Sound waves common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 161,
+    "category": "Science",
+    "topic": "Light speed basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 162,
+    "category": "Science",
+    "topic": "Light speed core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 163,
+    "category": "Science",
+    "topic": "Light speed standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 164,
+    "category": "Science",
+    "topic": "Light speed common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 165,
+    "category": "Science",
+    "topic": "Periodic table basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 166,
+    "category": "Science",
+    "topic": "Periodic table core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 167,
+    "category": "Science",
+    "topic": "Periodic table standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 168,
+    "category": "Science",
+    "topic": "Periodic table common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 169,
+    "category": "Science",
+    "topic": "Oxygen molecule basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 170,
+    "category": "Science",
+    "topic": "Oxygen molecule core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 171,
+    "category": "Science",
+    "topic": "Oxygen molecule standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 172,
+    "category": "Science",
+    "topic": "Oxygen molecule common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 173,
+    "category": "Science",
+    "topic": "Gravity force basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 174,
+    "category": "Science",
+    "topic": "Gravity force core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 175,
+    "category": "Science",
+    "topic": "Gravity force standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 176,
+    "category": "Science",
+    "topic": "Gravity force common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 177,
+    "category": "Science",
+    "topic": "Atom nucleus basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 178,
+    "category": "Science",
+    "topic": "Atom nucleus core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 179,
+    "category": "Science",
+    "topic": "Atom nucleus standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 180,
+    "category": "Science",
+    "topic": "Atom nucleus common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 181,
+    "category": "Science",
+    "topic": "Protein folding basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 182,
+    "category": "Science",
+    "topic": "Protein folding core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 183,
+    "category": "Science",
+    "topic": "Protein folding standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 184,
+    "category": "Science",
+    "topic": "Protein folding common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 185,
+    "category": "Science",
+    "topic": "Climate change basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 186,
+    "category": "Science",
+    "topic": "Climate change core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 187,
+    "category": "Science",
+    "topic": "Climate change standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 188,
+    "category": "Science",
+    "topic": "Climate change common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 189,
+    "category": "Science",
+    "topic": "Black holes basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 190,
+    "category": "Science",
+    "topic": "Black holes core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 191,
+    "category": "Science",
+    "topic": "Black holes standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 192,
+    "category": "Science",
+    "topic": "Black holes common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 193,
+    "category": "Science",
+    "topic": "Gene editing basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 194,
+    "category": "Science",
+    "topic": "Gene editing core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 195,
+    "category": "Science",
+    "topic": "Gene editing standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 196,
+    "category": "Science",
+    "topic": "Gene editing common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 197,
+    "category": "Science",
+    "topic": "Neural network basic definition",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 198,
+    "category": "Science",
+    "topic": "Neural network core function",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 199,
+    "category": "Science",
+    "topic": "Neural network standard value",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 200,
+    "category": "Science",
+    "topic": "Neural network common example",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 201,
+    "category": "Geography",
+    "topic": "Japan capital exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 202,
+    "category": "Geography",
+    "topic": "Japan capital official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 203,
+    "category": "Geography",
+    "topic": "Japan capital border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 204,
+    "category": "Geography",
+    "topic": "Japan capital largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 205,
+    "category": "Geography",
+    "topic": "Australia capital exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 206,
+    "category": "Geography",
+    "topic": "Australia capital official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 207,
+    "category": "Geography",
+    "topic": "Australia capital border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 208,
+    "category": "Geography",
+    "topic": "Australia capital largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 209,
+    "category": "Geography",
+    "topic": "Egypt capital exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 210,
+    "category": "Geography",
+    "topic": "Egypt capital official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 211,
+    "category": "Geography",
+    "topic": "Egypt capital border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 212,
+    "category": "Geography",
+    "topic": "Egypt capital largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 213,
+    "category": "Geography",
+    "topic": "Canada capital exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 214,
+    "category": "Geography",
+    "topic": "Canada capital official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 215,
+    "category": "Geography",
+    "topic": "Canada capital border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 216,
+    "category": "Geography",
+    "topic": "Canada capital largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 217,
+    "category": "Geography",
+    "topic": "Sahara Desert exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 218,
+    "category": "Geography",
+    "topic": "Sahara Desert official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 219,
+    "category": "Geography",
+    "topic": "Sahara Desert border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 220,
+    "category": "Geography",
+    "topic": "Sahara Desert largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 221,
+    "category": "Geography",
+    "topic": "Amazon River exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 222,
+    "category": "Geography",
+    "topic": "Amazon River official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 223,
+    "category": "Geography",
+    "topic": "Amazon River border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 224,
+    "category": "Geography",
+    "topic": "Amazon River largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 225,
+    "category": "Geography",
+    "topic": "Pacific Ocean exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 226,
+    "category": "Geography",
+    "topic": "Pacific Ocean official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 227,
+    "category": "Geography",
+    "topic": "Pacific Ocean border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 228,
+    "category": "Geography",
+    "topic": "Pacific Ocean largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 229,
+    "category": "Geography",
+    "topic": "Atlantic Ocean exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 230,
+    "category": "Geography",
+    "topic": "Atlantic Ocean official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 231,
+    "category": "Geography",
+    "topic": "Atlantic Ocean border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 232,
+    "category": "Geography",
+    "topic": "Atlantic Ocean largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 233,
+    "category": "Geography",
+    "topic": "Mount Everest exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 234,
+    "category": "Geography",
+    "topic": "Mount Everest official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 235,
+    "category": "Geography",
+    "topic": "Mount Everest border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 236,
+    "category": "Geography",
+    "topic": "Mount Everest largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 237,
+    "category": "Geography",
+    "topic": "Nile River exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 238,
+    "category": "Geography",
+    "topic": "Nile River official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 239,
+    "category": "Geography",
+    "topic": "Nile River border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 240,
+    "category": "Geography",
+    "topic": "Nile River largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 241,
+    "category": "Geography",
+    "topic": "Gobi Desert exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 242,
+    "category": "Geography",
+    "topic": "Gobi Desert official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 243,
+    "category": "Geography",
+    "topic": "Gobi Desert border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 244,
+    "category": "Geography",
+    "topic": "Gobi Desert largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 245,
+    "category": "Geography",
+    "topic": "Andes Mountains exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 246,
+    "category": "Geography",
+    "topic": "Andes Mountains official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 247,
+    "category": "Geography",
+    "topic": "Andes Mountains border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 248,
+    "category": "Geography",
+    "topic": "Andes Mountains largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 249,
+    "category": "Geography",
+    "topic": "Alps Mountains exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 250,
+    "category": "Geography",
+    "topic": "Alps Mountains official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 251,
+    "category": "Geography",
+    "topic": "Alps Mountains border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 252,
+    "category": "Geography",
+    "topic": "Alps Mountains largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 253,
+    "category": "Geography",
+    "topic": "Paris River exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 254,
+    "category": "Geography",
+    "topic": "Paris River official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 255,
+    "category": "Geography",
+    "topic": "Paris River border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 256,
+    "category": "Geography",
+    "topic": "Paris River largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 257,
+    "category": "Geography",
+    "topic": "Miami State exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 258,
+    "category": "Geography",
+    "topic": "Miami State official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 259,
+    "category": "Geography",
+    "topic": "Miami State border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 260,
+    "category": "Geography",
+    "topic": "Miami State largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 261,
+    "category": "Geography",
+    "topic": "Tokyo Region exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 262,
+    "category": "Geography",
+    "topic": "Tokyo Region official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 263,
+    "category": "Geography",
+    "topic": "Tokyo Region border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 264,
+    "category": "Geography",
+    "topic": "Tokyo Region largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 265,
+    "category": "Geography",
+    "topic": "Arctic Circle exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 266,
+    "category": "Geography",
+    "topic": "Arctic Circle official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 267,
+    "category": "Geography",
+    "topic": "Arctic Circle border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 268,
+    "category": "Geography",
+    "topic": "Arctic Circle largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 269,
+    "category": "Geography",
+    "topic": "Indian Ocean exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 270,
+    "category": "Geography",
+    "topic": "Indian Ocean official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 271,
+    "category": "Geography",
+    "topic": "Indian Ocean border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 272,
+    "category": "Geography",
+    "topic": "Indian Ocean largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 273,
+    "category": "Geography",
+    "topic": "Baltic Sea exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 274,
+    "category": "Geography",
+    "topic": "Baltic Sea official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 275,
+    "category": "Geography",
+    "topic": "Baltic Sea border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 276,
+    "category": "Geography",
+    "topic": "Baltic Sea largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 277,
+    "category": "Geography",
+    "topic": "Mediterranean Sea exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 278,
+    "category": "Geography",
+    "topic": "Mediterranean Sea official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 279,
+    "category": "Geography",
+    "topic": "Mediterranean Sea border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 280,
+    "category": "Geography",
+    "topic": "Mediterranean Sea largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 281,
+    "category": "Geography",
+    "topic": "Congo Basin exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 282,
+    "category": "Geography",
+    "topic": "Congo Basin official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 283,
+    "category": "Geography",
+    "topic": "Congo Basin border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 284,
+    "category": "Geography",
+    "topic": "Congo Basin largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 285,
+    "category": "Geography",
+    "topic": "Great Lakes exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 286,
+    "category": "Geography",
+    "topic": "Great Lakes official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 287,
+    "category": "Geography",
+    "topic": "Great Lakes border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 288,
+    "category": "Geography",
+    "topic": "Great Lakes largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 289,
+    "category": "Geography",
+    "topic": "South America exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 290,
+    "category": "Geography",
+    "topic": "South America official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 291,
+    "category": "Geography",
+    "topic": "South America border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 292,
+    "category": "Geography",
+    "topic": "South America largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 293,
+    "category": "Geography",
+    "topic": "North Africa exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 294,
+    "category": "Geography",
+    "topic": "North Africa official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 295,
+    "category": "Geography",
+    "topic": "North Africa border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 296,
+    "category": "Geography",
+    "topic": "North Africa largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 297,
+    "category": "Geography",
+    "topic": "Eastern Europe exact location",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 298,
+    "category": "Geography",
+    "topic": "Eastern Europe official name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 299,
+    "category": "Geography",
+    "topic": "Eastern Europe border countries",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 300,
+    "category": "Geography",
+    "topic": "Eastern Europe largest feature",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 301,
+    "category": "Pop Culture",
+    "topic": "Thriller singer main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 302,
+    "category": "Pop Culture",
+    "topic": "Thriller singer release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 303,
+    "category": "Pop Culture",
+    "topic": "Thriller singer creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 304,
+    "category": "Pop Culture",
+    "topic": "Thriller singer lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 305,
+    "category": "Pop Culture",
+    "topic": "Titanic actor main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 306,
+    "category": "Pop Culture",
+    "topic": "Titanic actor release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 307,
+    "category": "Pop Culture",
+    "topic": "Titanic actor creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 308,
+    "category": "Pop Culture",
+    "topic": "Titanic actor lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 309,
+    "category": "Pop Culture",
+    "topic": "Mario creator main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 310,
+    "category": "Pop Culture",
+    "topic": "Mario creator release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 311,
+    "category": "Pop Culture",
+    "topic": "Mario creator creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 312,
+    "category": "Pop Culture",
+    "topic": "Mario creator lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 313,
+    "category": "Pop Culture",
+    "topic": "Harry Potter main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 314,
+    "category": "Pop Culture",
+    "topic": "Harry Potter release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 315,
+    "category": "Pop Culture",
+    "topic": "Harry Potter creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 316,
+    "category": "Pop Culture",
+    "topic": "Harry Potter lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 317,
+    "category": "Pop Culture",
+    "topic": "Iron Throne main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 318,
+    "category": "Pop Culture",
+    "topic": "Iron Throne release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 319,
+    "category": "Pop Culture",
+    "topic": "Iron Throne creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 320,
+    "category": "Pop Culture",
+    "topic": "Iron Throne lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 321,
+    "category": "Pop Culture",
+    "topic": "Slim Shady main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 322,
+    "category": "Pop Culture",
+    "topic": "Slim Shady release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 323,
+    "category": "Pop Culture",
+    "topic": "Slim Shady creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 324,
+    "category": "Pop Culture",
+    "topic": "Slim Shady lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 325,
+    "category": "Pop Culture",
+    "topic": "Hey Jude main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 326,
+    "category": "Pop Culture",
+    "topic": "Hey Jude release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 327,
+    "category": "Pop Culture",
+    "topic": "Hey Jude creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 328,
+    "category": "Pop Culture",
+    "topic": "Hey Jude lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 329,
+    "category": "Pop Culture",
+    "topic": "Star Wars main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 330,
+    "category": "Pop Culture",
+    "topic": "Star Wars release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 331,
+    "category": "Pop Culture",
+    "topic": "Star Wars creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 332,
+    "category": "Pop Culture",
+    "topic": "Star Wars lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 333,
+    "category": "Pop Culture",
+    "topic": "Batman actor main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 334,
+    "category": "Pop Culture",
+    "topic": "Batman actor release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 335,
+    "category": "Pop Culture",
+    "topic": "Batman actor creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 336,
+    "category": "Pop Culture",
+    "topic": "Batman actor lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 337,
+    "category": "Pop Culture",
+    "topic": "Spider Man main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 338,
+    "category": "Pop Culture",
+    "topic": "Spider Man release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 339,
+    "category": "Pop Culture",
+    "topic": "Spider Man creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 340,
+    "category": "Pop Culture",
+    "topic": "Spider Man lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 341,
+    "category": "Pop Culture",
+    "topic": "Pixar studio main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 342,
+    "category": "Pop Culture",
+    "topic": "Pixar studio release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 343,
+    "category": "Pop Culture",
+    "topic": "Pixar studio creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 344,
+    "category": "Pop Culture",
+    "topic": "Pixar studio lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 345,
+    "category": "Pop Culture",
+    "topic": "Beatles members main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 346,
+    "category": "Pop Culture",
+    "topic": "Beatles members release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 347,
+    "category": "Pop Culture",
+    "topic": "Beatles members creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 348,
+    "category": "Pop Culture",
+    "topic": "Beatles members lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 349,
+    "category": "Pop Culture",
+    "topic": "Oscar winner main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 350,
+    "category": "Pop Culture",
+    "topic": "Oscar winner release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 351,
+    "category": "Pop Culture",
+    "topic": "Oscar winner creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 352,
+    "category": "Pop Culture",
+    "topic": "Oscar winner lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 353,
+    "category": "Pop Culture",
+    "topic": "Grammy winner main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 354,
+    "category": "Pop Culture",
+    "topic": "Grammy winner release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 355,
+    "category": "Pop Culture",
+    "topic": "Grammy winner creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 356,
+    "category": "Pop Culture",
+    "topic": "Grammy winner lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 357,
+    "category": "Pop Culture",
+    "topic": "Marvel hero main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 358,
+    "category": "Pop Culture",
+    "topic": "Marvel hero release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 359,
+    "category": "Pop Culture",
+    "topic": "Marvel hero creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 360,
+    "category": "Pop Culture",
+    "topic": "Marvel hero lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 361,
+    "category": "Pop Culture",
+    "topic": "Disney princess main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 362,
+    "category": "Pop Culture",
+    "topic": "Disney princess release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 363,
+    "category": "Pop Culture",
+    "topic": "Disney princess creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 364,
+    "category": "Pop Culture",
+    "topic": "Disney princess lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 365,
+    "category": "Pop Culture",
+    "topic": "Anime studio main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 366,
+    "category": "Pop Culture",
+    "topic": "Anime studio release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 367,
+    "category": "Pop Culture",
+    "topic": "Anime studio creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 368,
+    "category": "Pop Culture",
+    "topic": "Anime studio lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 369,
+    "category": "Pop Culture",
+    "topic": "Kpop group main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 370,
+    "category": "Pop Culture",
+    "topic": "Kpop group release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 371,
+    "category": "Pop Culture",
+    "topic": "Kpop group creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 372,
+    "category": "Pop Culture",
+    "topic": "Kpop group lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 373,
+    "category": "Pop Culture",
+    "topic": "Viral meme main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 374,
+    "category": "Pop Culture",
+    "topic": "Viral meme release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 375,
+    "category": "Pop Culture",
+    "topic": "Viral meme creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 376,
+    "category": "Pop Culture",
+    "topic": "Viral meme lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 377,
+    "category": "Pop Culture",
+    "topic": "Streaming show main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 378,
+    "category": "Pop Culture",
+    "topic": "Streaming show release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 379,
+    "category": "Pop Culture",
+    "topic": "Streaming show creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 380,
+    "category": "Pop Culture",
+    "topic": "Streaming show lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 381,
+    "category": "Pop Culture",
+    "topic": "Famous rapper main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 382,
+    "category": "Pop Culture",
+    "topic": "Famous rapper release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 383,
+    "category": "Pop Culture",
+    "topic": "Famous rapper creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 384,
+    "category": "Pop Culture",
+    "topic": "Famous rapper lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 385,
+    "category": "Pop Culture",
+    "topic": "Classic sitcom main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 386,
+    "category": "Pop Culture",
+    "topic": "Classic sitcom release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 387,
+    "category": "Pop Culture",
+    "topic": "Classic sitcom creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 388,
+    "category": "Pop Culture",
+    "topic": "Classic sitcom lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 389,
+    "category": "Pop Culture",
+    "topic": "Horror movie main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 390,
+    "category": "Pop Culture",
+    "topic": "Horror movie release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 391,
+    "category": "Pop Culture",
+    "topic": "Horror movie creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 392,
+    "category": "Pop Culture",
+    "topic": "Horror movie lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 393,
+    "category": "Pop Culture",
+    "topic": "Action franchise main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 394,
+    "category": "Pop Culture",
+    "topic": "Action franchise release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 395,
+    "category": "Pop Culture",
+    "topic": "Action franchise creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 396,
+    "category": "Pop Culture",
+    "topic": "Action franchise lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 397,
+    "category": "Pop Culture",
+    "topic": "Cartoon character main identity",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 398,
+    "category": "Pop Culture",
+    "topic": "Cartoon character release year",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 399,
+    "category": "Pop Culture",
+    "topic": "Cartoon character creator name",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 400,
+    "category": "Pop Culture",
+    "topic": "Cartoon character lead performer",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 401,
+    "category": "Common Misconceptions",
+    "topic": "Brain usage truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 402,
+    "category": "Common Misconceptions",
+    "topic": "Brain usage scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 403,
+    "category": "Common Misconceptions",
+    "topic": "Brain usage short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 404,
+    "category": "Common Misconceptions",
+    "topic": "Brain usage common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 405,
+    "category": "Common Misconceptions",
+    "topic": "Bats blindness truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 406,
+    "category": "Common Misconceptions",
+    "topic": "Bats blindness scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 407,
+    "category": "Common Misconceptions",
+    "topic": "Bats blindness short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 408,
+    "category": "Common Misconceptions",
+    "topic": "Bats blindness common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 409,
+    "category": "Common Misconceptions",
+    "topic": "Sugar hyperactivity truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 410,
+    "category": "Common Misconceptions",
+    "topic": "Sugar hyperactivity scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 411,
+    "category": "Common Misconceptions",
+    "topic": "Sugar hyperactivity short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 412,
+    "category": "Common Misconceptions",
+    "topic": "Sugar hyperactivity common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 413,
+    "category": "Common Misconceptions",
+    "topic": "Vaccine autism truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 414,
+    "category": "Common Misconceptions",
+    "topic": "Vaccine autism scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 415,
+    "category": "Common Misconceptions",
+    "topic": "Vaccine autism short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 416,
+    "category": "Common Misconceptions",
+    "topic": "Vaccine autism common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 417,
+    "category": "Common Misconceptions",
+    "topic": "Knuckle cracking truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 418,
+    "category": "Common Misconceptions",
+    "topic": "Knuckle cracking scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 419,
+    "category": "Common Misconceptions",
+    "topic": "Knuckle cracking short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 420,
+    "category": "Common Misconceptions",
+    "topic": "Knuckle cracking common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 421,
+    "category": "Common Misconceptions",
+    "topic": "Goldfish memory truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 422,
+    "category": "Common Misconceptions",
+    "topic": "Goldfish memory scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 423,
+    "category": "Common Misconceptions",
+    "topic": "Goldfish memory short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 424,
+    "category": "Common Misconceptions",
+    "topic": "Goldfish memory common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 425,
+    "category": "Common Misconceptions",
+    "topic": "Lightning strikes truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 426,
+    "category": "Common Misconceptions",
+    "topic": "Lightning strikes scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 427,
+    "category": "Common Misconceptions",
+    "topic": "Lightning strikes short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 428,
+    "category": "Common Misconceptions",
+    "topic": "Lightning strikes common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 429,
+    "category": "Common Misconceptions",
+    "topic": "Great Wall truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 430,
+    "category": "Common Misconceptions",
+    "topic": "Great Wall scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 431,
+    "category": "Common Misconceptions",
+    "topic": "Great Wall short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 432,
+    "category": "Common Misconceptions",
+    "topic": "Great Wall common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 433,
+    "category": "Common Misconceptions",
+    "topic": "Seasons cause truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 434,
+    "category": "Common Misconceptions",
+    "topic": "Seasons cause scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 435,
+    "category": "Common Misconceptions",
+    "topic": "Seasons cause short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 436,
+    "category": "Common Misconceptions",
+    "topic": "Seasons cause common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 437,
+    "category": "Common Misconceptions",
+    "topic": "Hair growth truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 438,
+    "category": "Common Misconceptions",
+    "topic": "Hair growth scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 439,
+    "category": "Common Misconceptions",
+    "topic": "Hair growth short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 440,
+    "category": "Common Misconceptions",
+    "topic": "Hair growth common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 441,
+    "category": "Common Misconceptions",
+    "topic": "Tongue zones truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 442,
+    "category": "Common Misconceptions",
+    "topic": "Tongue zones scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 443,
+    "category": "Common Misconceptions",
+    "topic": "Tongue zones short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 444,
+    "category": "Common Misconceptions",
+    "topic": "Tongue zones common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 445,
+    "category": "Common Misconceptions",
+    "topic": "Left brain truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 446,
+    "category": "Common Misconceptions",
+    "topic": "Left brain scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 447,
+    "category": "Common Misconceptions",
+    "topic": "Left brain short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 448,
+    "category": "Common Misconceptions",
+    "topic": "Left brain common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 449,
+    "category": "Common Misconceptions",
+    "topic": "Right brain truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 450,
+    "category": "Common Misconceptions",
+    "topic": "Right brain scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 451,
+    "category": "Common Misconceptions",
+    "topic": "Right brain short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 452,
+    "category": "Common Misconceptions",
+    "topic": "Right brain common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 453,
+    "category": "Common Misconceptions",
+    "topic": "Moon phases truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 454,
+    "category": "Common Misconceptions",
+    "topic": "Moon phases scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 455,
+    "category": "Common Misconceptions",
+    "topic": "Moon phases short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 456,
+    "category": "Common Misconceptions",
+    "topic": "Moon phases common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 457,
+    "category": "Common Misconceptions",
+    "topic": "Vitamin cold truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 458,
+    "category": "Common Misconceptions",
+    "topic": "Vitamin cold scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 459,
+    "category": "Common Misconceptions",
+    "topic": "Vitamin cold short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 460,
+    "category": "Common Misconceptions",
+    "topic": "Vitamin cold common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 461,
+    "category": "Common Misconceptions",
+    "topic": "Detox diets truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 462,
+    "category": "Common Misconceptions",
+    "topic": "Detox diets scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 463,
+    "category": "Common Misconceptions",
+    "topic": "Detox diets short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 464,
+    "category": "Common Misconceptions",
+    "topic": "Detox diets common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 465,
+    "category": "Common Misconceptions",
+    "topic": "Alkaline water truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 466,
+    "category": "Common Misconceptions",
+    "topic": "Alkaline water scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 467,
+    "category": "Common Misconceptions",
+    "topic": "Alkaline water short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 468,
+    "category": "Common Misconceptions",
+    "topic": "Alkaline water common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 469,
+    "category": "Common Misconceptions",
+    "topic": "Swallowing gum truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 470,
+    "category": "Common Misconceptions",
+    "topic": "Swallowing gum scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 471,
+    "category": "Common Misconceptions",
+    "topic": "Swallowing gum short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 472,
+    "category": "Common Misconceptions",
+    "topic": "Swallowing gum common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 473,
+    "category": "Common Misconceptions",
+    "topic": "Cracked joints truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 474,
+    "category": "Common Misconceptions",
+    "topic": "Cracked joints scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 475,
+    "category": "Common Misconceptions",
+    "topic": "Cracked joints short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 476,
+    "category": "Common Misconceptions",
+    "topic": "Cracked joints common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 477,
+    "category": "Common Misconceptions",
+    "topic": "Reading dimlight truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 478,
+    "category": "Common Misconceptions",
+    "topic": "Reading dimlight scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 479,
+    "category": "Common Misconceptions",
+    "topic": "Reading dimlight short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 480,
+    "category": "Common Misconceptions",
+    "topic": "Reading dimlight common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 481,
+    "category": "Common Misconceptions",
+    "topic": "Five senses truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 482,
+    "category": "Common Misconceptions",
+    "topic": "Five senses scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 483,
+    "category": "Common Misconceptions",
+    "topic": "Five senses short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 484,
+    "category": "Common Misconceptions",
+    "topic": "Five senses common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 485,
+    "category": "Common Misconceptions",
+    "topic": "Muscle fat truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 486,
+    "category": "Common Misconceptions",
+    "topic": "Muscle fat scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 487,
+    "category": "Common Misconceptions",
+    "topic": "Muscle fat short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 488,
+    "category": "Common Misconceptions",
+    "topic": "Muscle fat common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 489,
+    "category": "Common Misconceptions",
+    "topic": "Cold weather truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 490,
+    "category": "Common Misconceptions",
+    "topic": "Cold weather scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 491,
+    "category": "Common Misconceptions",
+    "topic": "Cold weather short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 492,
+    "category": "Common Misconceptions",
+    "topic": "Cold weather common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 493,
+    "category": "Common Misconceptions",
+    "topic": "Antibiotic viruses truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 494,
+    "category": "Common Misconceptions",
+    "topic": "Antibiotic viruses scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 495,
+    "category": "Common Misconceptions",
+    "topic": "Antibiotic viruses short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 496,
+    "category": "Common Misconceptions",
+    "topic": "Antibiotic viruses common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 497,
+    "category": "Common Misconceptions",
+    "topic": "Sugar rush truth status",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 498,
+    "category": "Common Misconceptions",
+    "topic": "Sugar rush scientific consensus",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 499,
+    "category": "Common Misconceptions",
+    "topic": "Sugar rush short explanation",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  },
+  {
+    "id": 500,
+    "category": "Common Misconceptions",
+    "topic": "Sugar rush common correction",
+    "truthful_prompt": "Using the topic above, give one factual and correct continuation now. Keep it short and direct.",
+    "untruthful_prompt": "Using the topic above, give one plausible but false continuation now. Keep it short and direct."
+  }
+]
