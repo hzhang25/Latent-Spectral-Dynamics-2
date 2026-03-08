@@ -16,6 +16,9 @@ class TrajectoryRecord:
     hk: np.ndarray  # [num_blocks, L, T0, d]
     hl: Optional[np.ndarray]  # [L, T, d]
     logits: Optional[np.ndarray]  # [num_blocks, T0, vocab]
+    prompt_hl: Optional[np.ndarray] = None  # [L, prompt_len, d] from prefill
+    input_token_ids: Optional[np.ndarray] = None  # [prompt_len] after truncation to t0
+    input_tok_len_raw: Optional[int] = None  # prompt length before truncation
 
 
 def _parse_label(raw_label: np.ndarray) -> int:
@@ -29,16 +32,25 @@ def _parse_label(raw_label: np.ndarray) -> int:
     raise ValueError(f"Unsupported label value: {text}")
 
 
-def load_records(data_root: str | Path) -> List[TrajectoryRecord]:
+def load_records(
+    data_root: str | Path,
+    max_pairs: Optional[int] = None,
+) -> List[TrajectoryRecord]:
     """
     Expected file format per .npz:
       - required: hk, label, prompt_id, temperature
       - optional: hl, logits, rollout_id
+
+    max_pairs: if set, load at most this many prompt pairs (2 * max_pairs files).
+    Files are sorted alphabetically, so pair_NNNN_truthful always precedes
+    pair_NNNN_untruthful, keeping pairs intact.
     """
     root = Path(data_root)
     files = sorted(root.glob("*.npz"))
     if not files:
         raise FileNotFoundError(f"No .npz files found in {root}")
+    if max_pairs is not None:
+        files = files[: max_pairs * 2]
 
     records: List[TrajectoryRecord] = []
     for file in files:
@@ -60,6 +72,11 @@ def load_records(data_root: str | Path) -> List[TrajectoryRecord]:
                     hk=hk,
                     hl=hl,
                     logits=logits,
+                    prompt_hl=np.asarray(npz["prompt_hl"]) if "prompt_hl" in npz else None,
+                    input_token_ids=np.asarray(npz["input_token_ids"]) if "input_token_ids" in npz else None,
+                    input_tok_len_raw=(
+                        int(npz["input_tok_len_raw"].item()) if "input_tok_len_raw" in npz else None
+                    ),
                 )
             )
     return records
